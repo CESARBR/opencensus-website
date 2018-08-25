@@ -23,7 +23,7 @@ OpenCensus Node has support for this exporter available through package:
 - [Creating the exporters](#creating-the-exporters)
 - [Viewing your traces](#viewing-your-traces)
 
-#### Instalign the exporters
+#### Installing the exporters
 Install OpenCensus Stackdriver Exporter with:
 
 {{<highlight bash>}}

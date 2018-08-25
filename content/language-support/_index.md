@@ -17,4 +17,4 @@ Ruby|https://www.rubydoc.info/gems/opencensus
 Erlang|https://hexdocs.pm/opencensus/
 Python|https://census-instrumentation.github.io/opencensus-python/trace/api/index.html
 PHP|https://packagist.org/packages/opencensus/opencensus
-Node|https://github.com/census-instrumentation/opencensus-node
+Node.js|https://github.com/census-instrumentation/opencensus-node
